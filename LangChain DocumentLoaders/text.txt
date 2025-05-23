@@ -1,0 +1,7 @@
+Artificial Intelligence (AI) is transforming the way we live and work. It refers to the simulation of human intelligence by machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving.
+
+Machine Learning is a subset of AI that focuses on developing systems that can learn from and make decisions based on data. Deep Learning, a subset of Machine Learning, uses neural networks with many layers (hence "deep") to analyze various factors of data.
+
+AI applications are everywhere in our daily lives, from virtual assistants like Siri and Alexa to recommendation systems on streaming platforms and e-commerce websites. In healthcare, AI is being used to predict diseases and assist in diagnosis. In transportation, self-driving cars are becoming a reality.
+
+The future of AI holds immense potential, but it also raises important questions about ethics, privacy, and the impact on employment. As we continue to develop more sophisticated AI systems, it's crucial to consider these implications and ensure that AI development benefits humanity as a whole.

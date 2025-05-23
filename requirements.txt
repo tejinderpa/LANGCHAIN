@@ -2,4 +2,5 @@ langchain-community
 python-dotenv
 streamlit
 langchain-core
-huggingface-hub 
+huggingface-hub
+reportlab 
